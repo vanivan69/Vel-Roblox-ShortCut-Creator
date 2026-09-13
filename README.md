@@ -47,6 +47,11 @@ build.bat
 
 * Or download pre-built version off releases.
 
+## 💳 Credits & Acknowledgments
+
+* **Metropolis Font**: Released under the [SIL Open Font License 1.1](https://scripts.sil.org/OFL). Copyright (c) Chris Simpson.
+* **CustomTkinter**: GUI library by Tom Schimansky.
+
 ## 📜 License
 
 Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
