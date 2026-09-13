@@ -4,18 +4,19 @@ pip install -r requirements.txt
 
 echo Building executable via Nuitka...
 python -m nuitka ^
-    --standalone ^
     --onefile ^
     --plugin-enable=tk-inter ^
     --include-package-data=customtkinter ^
-    --include-package=aiohttp ^
-    --include-package=PIL ^
-    --include-package=win32com ^
+    --include-module=aiohttp ^
+    --include-module=PIL.Image ^
+    --include-module=PIL.ImageTk ^
+    --include-module=PIL.ImageFont ^
     --include-module=pythoncom ^
-    --include-module=win32com.client ^
     --include-data-files=app.ico=app.ico ^
     --include-data-files=Metropolis-ExtraBold.otf=Metropolis-ExtraBold.otf ^
     --nofollow-import-to=win32com.test ^
+    --nofollow-import-to=unittest ^
+    --nofollow-import-to=pydoc ^
     --windows-console-mode=disable ^
     --output-dir=dist ^
     --output-filename="Roblox SCC.exe" ^

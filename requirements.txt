@@ -2,3 +2,4 @@ customtkinter>=5.2.0
 aiohttp>=3.9.0
 Pillow>=10.0.0
 pywin32>=306
+nuitka>=4.2.1
