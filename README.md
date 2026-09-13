@@ -1,4 +1,3 @@
-```markdown
 # Roblox Shortcut Creator (Roblox SCC)
 
 Утилита для быстрого создания ярлыков плейсов Roblox на Рабочем столе с официальными иконками игр.
