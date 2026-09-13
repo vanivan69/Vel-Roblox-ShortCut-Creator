@@ -45,6 +45,8 @@ build.bat
 
 * Or trigger the Nuitka compilation manually via CLI.
 
+* Or download pre-built version off releases.
+
 ## 📜 License
 
 Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
