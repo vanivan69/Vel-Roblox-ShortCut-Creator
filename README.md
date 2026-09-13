@@ -1,4 +1,3 @@
-```markdown
 # Vel's Roblox Shortcut Creator (Roblox SCC)
 
 A lightweight desktop utility designed to quickly generate Roblox place shortcuts (`.lnk`) on your Desktop, complete with official game icons.
