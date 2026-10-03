@@ -4,9 +4,8 @@ A lightweight desktop utility designed to quickly generate Roblox place shortcut
 
 ## 🚀 Features
 - **Roblox OmniSearch Integration**: Instantly search for games by title.
-- **Direct Place ID Lookup**: Quick parsing for Place IDs (up to 20 digits long).
 - **Smart Autocomplete**: Ghost-text suggestions with case-insensitive debounced matching.
-- **Native Icon Extraction**: Automatically downloads and embeds high-resolution game icons directly into `.lnk` files.
+- **Native Icon Extraction**: Automatically downloads and embeds high-res game icons directly into `.lnk` files.
 
 ## 🛠️ Installation & Building from Source
 
@@ -45,7 +44,7 @@ build.bat
 
 * Or trigger the Nuitka compilation manually via CLI.
 
-* Or download pre-built version off releases.
+* Or download pre-built version off [releases](https://github.com/vanivan69/Vel-Roblox-ShortCut-Creator/releases).
 
 ## 💳 Credits & Acknowledgments
 
