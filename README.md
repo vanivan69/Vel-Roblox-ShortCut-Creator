@@ -12,7 +12,7 @@ A lightweight desktop utility designed to quickly generate Roblox place shortcut
 
 1. **Clone the repository**:
 ```bash
-git clone [https://github.com/vanivan69/Vel-Roblox-ShortCut-Creator.git](https://github.com/vanivan69/Vel-Roblox-ShortCut-Creator.git)
+git clone https://github.com/vanivan69/Vel-Roblox-ShortCut-Creator.git
 cd Vel-Roblox-ShortCut-Creator
 
 ```
